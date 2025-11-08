@@ -26,3 +26,6 @@ logs
 # eslint
 .eslintignore
 .eslint.config.mjs
+
+#.gitignore
+.gitignore
